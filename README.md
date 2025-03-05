@@ -18,8 +18,9 @@ Soy estudiante de Sociología en la Universidad de Chile, entusiasta desarrollad
 - [🕵️ herramienta_monitor_log](https://github.com/exetrujillo/herramienta_monitor_log): Herramienta de monitoreo con logs en Linux, por medio de python. 
 
 ## 📊 Estadísticas de GitHub
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exetrujillo&theme=default)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exetrujillo)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exetrujillo&theme=dark)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 ## 📬 Contáctame
 Puedes encontrarme en:
