@@ -5,7 +5,7 @@ Soy estudiante de Sociología en la Universidad de Chile, entusiasta desarrollad
 
 ## 🖥️ Tecnologías principales
 
-<!-- Insignias para el modo oscuro -->
+<!-- Insignias o Badges -->
 ![Flutter Dark](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white#gh-dark-mode-only)
 ![Dart Dark](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white#gh-dark-mode-only)
 ![R Dark](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white#gh-dark-mode-only)
@@ -15,15 +15,6 @@ Soy estudiante de Sociología en la Universidad de Chile, entusiasta desarrollad
 ![JavaScript Dark](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black#gh-dark-mode-only)
 ![Vue.js Dark](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white#gh-dark-mode-only)
 
-<!-- Insignias para el modo claro -->
-![Flutter Light](https://img.shields.io/badge/Flutter-81C3F2?style=for-the-badge&logo=flutter&logoColor=black#gh-light-mode-only)
-![Dart Light](https://img.shields.io/badge/Dart-82CFFF?style=for-the-badge&logo=dart&logoColor=black#gh-light-mode-only)
-![R Light](https://img.shields.io/badge/R-9BBDE9?style=for-the-badge&logo=r&logoColor=black#gh-light-mode-only)
-![Python Light](https://img.shields.io/badge/Python-B0C6E0?style=for-the-badge&logo=python&logoColor=black#gh-light-mode-only)
-![HTML5 Light](https://img.shields.io/badge/HTML5-F3A397?style=for-the-badge&logo=html5&logoColor=black#gh-light-mode-only)
-![CSS3 Light](https://img.shields.io/badge/CSS3-A2C0E0?style=for-the-badge&logo=css3&logoColor=black#gh-light-mode-only)
-![JavaScript Light](https://img.shields.io/badge/JavaScript-FBE993?style=for-the-badge&logo=javascript&logoColor=black#gh-light-mode-only)
-![Vue.js Light](https://img.shields.io/badge/Vue.js-94E4C5?style=for-the-badge&logo=vue.js&logoColor=black#gh-light-mode-only)
 
 ## 🗂️ Algunos proyectos
 
