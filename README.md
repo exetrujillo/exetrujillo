@@ -1,7 +1,7 @@
-# 👋 Hola, soy Exequiel Trujillo!
+# Hola, mi nombre es Exequiel Trujillo Escobar!
 
-## 📌 Sobre mí
-Soy estudiante de Sociología en la Universidad de Chile, entusiasta desarrollador web, programador para las ciencias sociales y amante de la música. Me interesa la intersección entre tecnología y ciencias sociales, desarrollando herramientas para análisis de datos y aprendizaje interactivo.
+## ☝️ Sobre mí
+Soy estudiante de Sociología en la Universidad de Chile, entusiasta desarrollador web, programador para las ciencias sociales y amante de la música. Me interesa la intersección entre tecnología y ciencias sociales, desarrollando herramientas para análisis de datos y aprendizaje interactivo. Actualmente especializándome en ciberseguridad.
 
 ## 🚀 Tecnologías principales
 
@@ -10,11 +10,12 @@ Soy estudiante de Sociología en la Universidad de Chile, entusiasta desarrollad
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=R&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=Python&logoColor=white)
 
-## 📌 Proyectos destacados
+## 📌 Algunos proyectos
 
 - [📊 datamedios](https://github.com/exetrujillo/datamedios): Paquete en R para extraer noticias desde medios de comunicación chilenos.
 - [🎶 analisisletras](https://github.com/exetrujillo/analisisletras): Paquete en R para facilitar el análisis de letras y manipulación de corpus para música en español. En desarrollo
 - 🌍 Actualmente desarrollando una app de aprendizaje de idiomas interactivo y con gamificación usando Flutter y Firebase, con manejo de estado por medio de Riverpod y usando Hive.
+- [🕵️ herramienta_monitor_log](https://github.com/exetrujillo/herramienta_monitor_log): Herramienta de monitoreo con logs en Linux, por medio de python. 
 
 ## 📊 Estadísticas de GitHub
 
