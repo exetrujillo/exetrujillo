@@ -3,14 +3,14 @@
 ## ☝️ Sobre mí
 Soy estudiante de Sociología en la Universidad de Chile, entusiasta desarrollador web, programador para las ciencias sociales y amante de la música. Me interesa la intersección entre tecnología y ciencias sociales, desarrollando herramientas para análisis de datos y aprendizaje interactivo. Actualmente especializándome en ciberseguridad.
 
-## 🚀 Tecnologías principales
+## 🖥️ Tecnologías principales
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=Dart&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=R&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=Python&logoColor=white)
 
-## 📌 Algunos proyectos
+## 🗂️ Algunos proyectos
 
 - [📊 datamedios](https://github.com/exetrujillo/datamedios): Paquete en R para extraer noticias desde medios de comunicación chilenos.
 - [🎶 analisisletras](https://github.com/exetrujillo/analisisletras): Paquete en R para facilitar el análisis de letras y manipulación de corpus para música en español. En desarrollo
