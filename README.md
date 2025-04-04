@@ -25,11 +25,17 @@ Soy estudiante de Sociología en la Universidad de Chile, entusiasta desarrollad
 - [🕵️ herramienta_monitor_log](https://github.com/exetrujillo/herramienta_monitor_log): Herramienta de monitoreo con logs en Linux, por medio de python. 
 
 ## 📊 Estadísticas de GitHub
-<!-- Tarjeta para el modo oscuro -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exetrujillo&theme=dark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-<!-- Tarjeta para el modo claro -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exetrujillo&theme=default)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<!-- Tarjeta Top Langs para Modo Oscuro -->
+[![Top Langs Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=exetrujillo&layout=compact&theme=dark&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+<!-- Tarjeta Top Langs para Modo Claro -->
+[![Top Langs Light](https://github-readme-stats.vercel.app/api/top-langs/?username=exetrujillo&layout=compact&theme=default&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+<!-- Puedes añadir otras tarjetas si quieres, como tus stats generales -->
+<!-- Stats generales para Modo Oscuro -->
+<!-- [![Exequiel's GitHub stats Dark](https://github-readme-stats.vercel.app/api?username=exetrujillo&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) -->
+<!-- Stats generales para Modo Claro -->
+<!-- [![Exequiel's GitHub stats Light](https://github-readme-stats.vercel.app/api?username=exetrujillo&show_icons=true&theme=default&hide_border=true)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) -->
 
 ## 📬 Contáctame
 Puedes encontrarme en:
