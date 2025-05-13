@@ -6,18 +6,17 @@ Soy estudiante de Sociología en la Universidad de Chile, entusiasta desarrollad
 ## 🖥️ Tecnologías principales
 
 <!-- Insignias o Badges -->
-![Flutter Dark](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white#gh-dark-mode-only)
-![Dart Dark](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white#gh-dark-mode-only)
 ![R Dark](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white#gh-dark-mode-only)
 ![Python Dark](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white#gh-dark-mode-only)
 ![HTML5 Dark](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white#gh-dark-mode-only)
 ![CSS3 Dark](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white#gh-dark-mode-only)
 ![JavaScript Dark](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black#gh-dark-mode-only)
 ![Vue.js Dark](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white#gh-dark-mode-only)
-
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white#gh-dark-mode-only)
 
 ## 🗂️ Algunos proyectos
 
+- [🧙‍♂️ portafolio-blog-template](https://github.com/exetrujillo/portafolio-blog-template): Plantilla para crear portafolios profesionales con blogs, usando Nuxt 3.
 - [📊 datamedios](https://github.com/exetrujillo/datamedios): Paquete en R para extraer noticias desde medios de comunicación chilenos.
 - [✏️ dataspanish-yeah](https://github.com/exetrujillo/dataspanish-yeah): Notebooks para la creación de datasets de análisis lingüístico y mapas semánticos en base a coordenadas PCA y UMAP en 2D y 3D. Incipientes, si juega con ellos me hace llegar sus comentarios.
 - [🎶 analisisletras](https://github.com/exetrujillo/analisisletras): Paquete en R para facilitar el análisis de letras y manipulación de corpus para música en español. En desarrollo
