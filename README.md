@@ -1,7 +1,7 @@
 # Hola, mi nombre es Exequiel Trujillo Escobar!
 
 ## ☝️ Sobre mí
-Soy estudiante de Sociología en la Universidad de Chile, entusiasta desarrollador web, programador para las ciencias sociales y amante de la música. Me interesa la intersección entre tecnología y ciencias sociales, desarrollando herramientas para análisis de datos y aprendizaje interactivo. Actualmente especializándome en ciberseguridad.
+Soy estudiante de Sociología en la Universidad de Chile, entusiasta desarrollador web, programador para las ciencias sociales y amante de la música. Me interesa la intersección entre tecnología y ciencias sociales, desarrollando herramientas para análisis de datos y aprendizaje interactivo. Actualmente especializándome en ciberseguridad. Puedes revisar [mi portafolio](https://www.exetrujillo.cl/)
 
 ## 🖥️ Tecnologías principales
 
@@ -14,8 +14,9 @@ Soy estudiante de Sociología en la Universidad de Chile, entusiasta desarrollad
 ![Vue.js Dark](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white#gh-dark-mode-only)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white#gh-dark-mode-only)
 
-## 🗂️ Algunos proyectos
+## 🗂️ Algunos proyectos públicos
 
+- [🦊 fake-news](https://github.com/exetrujillo/fake-news): Página educativa sobre fake news. Noticia principal disponible [AQUÍ](https://fake-news-nine.vercel.app/noticia/karol-dance-apoya-aborto)
 - [🧙‍♂️ portafolio-blog-template](https://github.com/exetrujillo/portafolio-blog-template): Plantilla para crear portafolios profesionales con blogs, usando Nuxt 3.
 - [📊 datamedios](https://github.com/exetrujillo/datamedios): Paquete en R para extraer noticias desde medios de comunicación chilenos.
 - [✏️ dataspanish-yeah](https://github.com/exetrujillo/dataspanish-yeah): Notebooks para la creación de datasets de análisis lingüístico y mapas semánticos en base a coordenadas PCA y UMAP en 2D y 3D. Incipientes, si juega con ellos me hace llegar sus comentarios.
