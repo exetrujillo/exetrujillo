@@ -16,6 +16,7 @@ Soy estudiante de Sociología en la Universidad de Chile, entusiasta desarrollad
 
 ## 🗂️ Algunos proyectos públicos
 
+- [🤓 aprendizaje-typescript](https://github.com/exetrujillo/aprendizaje-typescript): Repo con lecciones y ejercicios prácticos para aprender Typescript, compilano y ejecutando con node.
 - [🦊 fake-news](https://github.com/exetrujillo/fake-news): Página educativa sobre fake news. Noticia principal disponible [AQUÍ](https://fake-news-nine.vercel.app/noticia/karol-dance-apoya-aborto)
 - [🧙‍♂️ portafolio-blog-template](https://github.com/exetrujillo/portafolio-blog-template): Plantilla para crear portafolios profesionales con blogs, usando Nuxt 3.
 - [📊 datamedios](https://github.com/exetrujillo/datamedios): Paquete en R para extraer noticias desde medios de comunicación chilenos.
