@@ -1,7 +1,7 @@
 # Hola, mi nombre es Exequiel Trujillo Escobar!
 
 ## ☝️ Sobre mí
-Soy estudiante de Sociología en la Universidad de Chile, entusiasta desarrollador web, programador para las ciencias sociales y amante de la música. Me interesa la intersección entre tecnología y ciencias sociales, desarrollando herramientas para análisis de datos y aprendizaje interactivo. Actualmente especializándome en ciberseguridad. Puedes revisar [mi portafolio](https://www.exetrujillo.cl/)
+Sociólogo de la Universidad de Chile, entusiasta desarrollador web, programador para las ciencias sociales y amante de la música. Me interesa la intersección entre tecnología y ciencias sociales, desarrollando herramientas para análisis de datos y aprendizaje interactivo. Puedes revisar [mi portafolio aquí](https://www.exetrujillo.cl/).
 
 ## 🖥️ Tecnologías principales
 
