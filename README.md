@@ -15,8 +15,8 @@ Sociólogo de la Universidad de Chile, entusiasta desarrollador web, programador
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white#gh-dark-mode-only)
 
 ## 🗂️ Algunos proyectos públicos
-
-- [🤓 aprendizaje-typescript](https://github.com/exetrujillo/aprendizaje-typescript): Repo con lecciones y ejercicios prácticos para aprender Typescript, compilano y ejecutando con node.
+- [🤓 aprendizaje-javascript](https://github.com/exetrujillo/aprendizaje-javascript): Repo con lecciones y ejercicios prácticos para aprender javascript, ejecutando con node.
+- [🤓 aprendizaje-typescript](https://github.com/exetrujillo/aprendizaje-typescript): Repo con lecciones y ejercicios prácticos para aprender Typescript, compilando y ejecutando con node.
 - [🦊 fake-news](https://github.com/exetrujillo/fake-news): Página educativa sobre fake news. Noticia principal disponible [AQUÍ](https://fake-news-nine.vercel.app/noticia/karol-dance-apoya-aborto)
 - [🧙‍♂️ portafolio-blog-template](https://github.com/exetrujillo/portafolio-blog-template): Plantilla para crear portafolios profesionales con blogs, usando Nuxt 3.
 - [📊 datamedios](https://github.com/exetrujillo/datamedios): Paquete en R para extraer noticias desde medios de comunicación chilenos.
