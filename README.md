@@ -16,10 +16,11 @@ Sociólogo de la Universidad de Chile, entusiasta desarrollador web, programador
 
 ## 🗂️ Algunos proyectos públicos
 - [🎸 ViolentViz](https://github.com/exetrujillo/ViolentViz): Aquí estoy trabajando en un visualizador musical en js para mi banda.
-- [🐥 wayrapp-back](https://github.com/exetrujillo/wayrapp-back): Muy inicial, trabajando en una app de aprendizaje de idiomas con front unificado y back descentralizado. Para que BBDD y servidores sean autogestionados por comunidades e instituciones.
 - [🦊 fake-news](https://github.com/exetrujillo/fake-news): Página educativa sobre fake news. Noticia principal disponible [AQUÍ](https://fake-news-nine.vercel.app/noticia/karol-dance-apoya-aborto)
 - [🧙‍♂️ portafolio-blog-template](https://github.com/exetrujillo/portafolio-blog-template): Plantilla para crear portafolios profesionales con blogs, usando Nuxt 3.
 - [📊 datamedios](https://github.com/exetrujillo/datamedios): Paquete en R para extraer noticias desde medios de comunicación chilenos.
+- [🐥 wayrapp-back](https://github.com/exetrujillo/wayrapp-back): Muy inicial, trabajando en una app de aprendizaje de idiomas con front unificado y back descentralizado. Para que BBDD y servidores sean autogestionados por comunidades e instituciones.
+
 
 ## 📊 Estadísticas de GitHub
 
