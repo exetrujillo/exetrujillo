@@ -17,14 +17,9 @@ Sociólogo de la Universidad de Chile, entusiasta desarrollador web, programador
 ## 🗂️ Algunos proyectos públicos
 - [🎸 ViolentViz](https://github.com/exetrujillo/ViolentViz): Aquí estoy trabajando en un visualizador musical en js para mi banda.
 - [🐥 wayrapp-back](https://github.com/exetrujillo/wayrapp-back): Muy inicial, trabajando en una app de aprendizaje de idiomas con front unificado y back descentralizado. Para que BBDD y servidores sean autogestionados por comunidades e instituciones.
-- [🤓 aprendizaje-javascript](https://github.com/exetrujillo/aprendizaje-javascript): Repo con lecciones y ejercicios prácticos para aprender javascript, ejecutando con node.
-- [🤓 aprendizaje-typescript](https://github.com/exetrujillo/aprendizaje-typescript): Repo con lecciones y ejercicios prácticos para aprender Typescript, compilando y ejecutando con node.
 - [🦊 fake-news](https://github.com/exetrujillo/fake-news): Página educativa sobre fake news. Noticia principal disponible [AQUÍ](https://fake-news-nine.vercel.app/noticia/karol-dance-apoya-aborto)
 - [🧙‍♂️ portafolio-blog-template](https://github.com/exetrujillo/portafolio-blog-template): Plantilla para crear portafolios profesionales con blogs, usando Nuxt 3.
 - [📊 datamedios](https://github.com/exetrujillo/datamedios): Paquete en R para extraer noticias desde medios de comunicación chilenos.
-- [✏️ dataspanish-yeah](https://github.com/exetrujillo/dataspanish-yeah): Notebooks para la creación de datasets de análisis lingüístico y mapas semánticos en base a coordenadas PCA y UMAP en 2D y 3D. Incipientes, si juega con ellos me hace llegar sus comentarios.
-- [🎶 analisisletras](https://github.com/exetrujillo/analisisletras): Paquete en R para facilitar el análisis de letras y manipulación de corpus para música en español. En desarrollo
-- [🕵️ herramienta_monitor_log](https://github.com/exetrujillo/herramienta_monitor_log): Herramienta de monitoreo con logs en Linux, por medio de python. 
 
 ## 📊 Estadísticas de GitHub
 
