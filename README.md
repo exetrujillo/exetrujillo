@@ -15,6 +15,7 @@ Sociólogo de la Universidad de Chile, entusiasta desarrollador web, programador
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white#gh-dark-mode-only)
 
 ## 🗂️ Algunos proyectos públicos
+- [💹 e-commerce m2](https://github.com/exetrujillo/ecommerce-m2): Proyecto página banda musical con e-commerce de merch usando html, js y css puros, con jquery y bootstrap
 - [🎸 ViolentViz](https://github.com/exetrujillo/ViolentViz): Aquí estoy trabajando en un visualizador musical en js para mi banda.
 - [🦊 fake-news](https://github.com/exetrujillo/fake-news): Página educativa sobre fake news. Noticia principal disponible [AQUÍ](https://fake-news-nine.vercel.app/noticia/karol-dance-apoya-aborto)
 - [🧙‍♂️ portafolio-blog-template](https://github.com/exetrujillo/portafolio-blog-template): Plantilla para crear portafolios profesionales con blogs, usando Nuxt 3.
