@@ -11,6 +11,8 @@ Sociólogo de la Universidad de Chile, entusiasta desarrollador web, programador
 ![HTML5 Dark](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white#gh-dark-mode-only)
 ![CSS3 Dark](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white#gh-dark-mode-only)
 ![JavaScript Dark](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black#gh-dark-mode-only)
+![Next JS Dark](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white#gh-dark-mode-only)
+
 ![Vue.js Dark](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white#gh-dark-mode-only)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white#gh-dark-mode-only)
 
