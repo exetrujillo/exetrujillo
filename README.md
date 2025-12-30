@@ -12,9 +12,15 @@ Sociólogo de la Universidad de Chile, entusiasta desarrollador web, programador
 ![CSS3 Dark](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white#gh-dark-mode-only)
 ![JavaScript Dark](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black#gh-dark-mode-only)
 ![Next JS Dark](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white#gh-dark-mode-only)
-
 ![Vue.js Dark](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white#gh-dark-mode-only)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white#gh-dark-mode-only)
+![NodeJS Dark](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white#gh-dark-mode-only)
+![TypeScript Dark](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white#gh-dark-mode-only)
+![TailwindCSS Dark](https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white#gh-dark-mode-only)
+![Bootstrap Dark](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white#gh-dark-mode-only)
+![React Dark](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB#gh-dark-mode-only)
+![PostgreSQL Dark](https://img.shields.io/badge/postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white#gh-dark-mode-only)
+
 
 ## 🗂️ Algunos proyectos públicos
 - [💹 e-commerce m2](https://github.com/exetrujillo/ecommerce-m2): Proyecto página banda musical con e-commerce de merch usando html, js y css puros, con jquery y bootstrap
