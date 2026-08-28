@@ -22,6 +22,7 @@ Sociólogo de la Universidad de Chile, entusiasta desarrollador web, programador
 ![PostgreSQL Dark](https://img.shields.io/badge/postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white#gh-dark-mode-only)
 
 ## 🗂️ Algunos proyectos públicos
+- [🏭 La Factoría](https://github.com/exetrujillo/lafactoria): Skills para hacer más skills y otras skills que interactúan con skills y tienen hijos con otras skills. Eso, en resumen...
 - [📊 datamedios](https://github.com/exetrujillo/datamedios): Paquete en R para extraer noticias desde medios de comunicación chilenos.
 - [📚 reafy](https://github.com/exetrujillo/raefy): Paquete en R para extraer datos lingüísticos de la RAE, como sus definiociones, sinónimos, antónimos, conjugaciones y más.
 
